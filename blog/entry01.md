@@ -1,7 +1,7 @@
-# Entry 1
-##### X/X/XX
+#Criminology
+##### 10/23/2023
 
-Text
+##why the topic of Criminology?
 
 [Next](entry02.md)
 
