@@ -6,7 +6,35 @@
 #### What is Criminology
    * People that work as a criminologist do criminology. Criminology is the study of crime or criminal behavior. Criminologist do sociology, psychology, economics, statistics, and anthropology. Criminologist help solve crime and understand what had happened during the crime. When working as a criminologist they need to understand the human mind, their behavior and the crime itself. 
      
+#### Software Uses
+   * (How Technology is used for Criminal Investigations)[https://www.openfox.com/how-technology-is-used-for-criminal-investigations/]
 
+
+
+
+
+
+https://www.openfox.com/how-technology-is-used-for-criminal-investigations/  (Article)
+Facial Recognition Software →
+Facial recognition technology is capable of matching human faces from video frames or digital images against a database of faces
+This system is more convenient than other technologies → retina & fingerprint scans
+https://www.openfox.com/8-types-of-police-software-and-their-uses/ (Article)
+Background Check Software
+Reveals a wide range of information about a suspect’s prior arrests, convictions, warrants, sex offenses, court records and incarceration history. 
+Investigation Software
+Useful in the investigative process.
+Facial Recognition Software
+Verify an individual identity remotely, and can identify unknown individuals in a photo or video. 
+Case Management Software
+Recording incidents, follow workflows, upload documents, data cases and analyze cases. 
+Reporting Software
+To quickly search local and federal databases for information.
+Citation Software
+Sends information directly to the court within seconds. It can also issue citations more quickly. (Less risks)
+Scheduling Software
+Enables law enforcement agencies to keep employee schedules up to date.
+Database Software
+Store information in a centralized location. (Variety of sources)
 
 
 [Previous](entry02.md) | [Next](entry04.md)
