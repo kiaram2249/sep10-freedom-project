@@ -41,6 +41,41 @@
    * Database Software
      * Store information in a centralized location. (Variety of sources)
 
+#### Hardware Uses
+* [Criminology Equipment](https://princevaliant-equip.com/product-category/criminology-equipment/)
+   * Bullet Recovery Box
+   * Angle Finder
+   * Classification Magnifier
+   * Digital Polygraph
+   * Fumehood
+   * Forensic Optical Comparator
+   * Compass
+   * Crime Scene Marking Kit
+   * Crime Scene Sketch Kit
+   * Document Verification Machine
+   * Forensic Bullet Comparison Microscope
+* [What Are Criminologist Skills?](https://www.indeed.com/career-advice/resumes-cover-letters/criminologist-skills)
+   * “Some criminologists may work with complicated technology to analyze large amounts of data. They may also use computers to create readable reports. Although the technical requirements may vary, a career as a criminologist may require basic computer skills or competency.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
