@@ -1,6 +1,11 @@
 # Criminology
 ##### 12/20/2023
- 
+
+### Content Process
+
+In order for me to come up with my content I had to brainstorm and gather details. I had to gather information about the different softwares and the different hardwares that Criminologist use in order to create the wedsite. Also, I had to brainstorm new ideas and new technology for the future so that Criminologist can use. It was kind of hard to think of new technology for the future because I had to think outside the box. I also had to think what was the purpose for that new technology. 
+
+
 ### Content 
 
 #### What is Criminology
