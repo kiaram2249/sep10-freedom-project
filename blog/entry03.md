@@ -83,7 +83,9 @@ In order for me to come up with my content I had to brainstorm and gather detail
   * This technology is a handcuff that analyzes people once they get handcuffs and it will show the cops the data about that person.
     * It will show the data to the cops, so that they can know their information. The cops would give this information to the criminologist and the workers.
 
+### Engineering Design Process
 
+Since I am done with step 2 (reseaching) I have to start thinking about brainstorming. Now I am starting to go into step 3 (brainstorming). I have to brainstorm what I want my website to have as its contents, I have to think what I want my 
 
 
 
