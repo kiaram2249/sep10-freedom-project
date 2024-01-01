@@ -85,7 +85,13 @@ In order for me to come up with my content I had to brainstorm and gather detail
 
 ### Engineering Design Process
 
-Since I am done with step 2 (reseaching) I have to start thinking about brainstorming. Now I am starting to go into step 3 (brainstorming). I have to brainstorm what I want my website to have as its contents, I have to think what I want my 
+Since I am done with step 2 (reseaching) I have to start thinking about brainstorming. I am starting to go into step 3 (brainstorming). I have to brainstorm what I want my website to have as its contents, I have to think what I want my content to be about. Also, I had to brainstorm the future technologies that criminologist can use. I had to come up with different technologies that make sense so that that in the future criminologist can use. I want to start brainstorming in how I want my website to look like, plus I want to fix my content a bit more so that it can be a bit more better. 
+
+### Skills
+
+#### Attention to detail
+
+I gain the skill of **Attention to detail** because I was focus on making sure that my content had all the information that was needed. Also, I was making sure that my ideas for the technologies made sense because I wanted to make sure that the technologies are useful to use in the future for criminologist. Plus, I wanted to makes sure that there were no typos onto my content and I wanted to make sure I used and included all of my information that was needed. 
 
 
 
