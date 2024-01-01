@@ -85,7 +85,7 @@ In order for me to come up with my content I had to brainstorm and gather detail
 
 ### Engineering Design Process
 
-Since I am done with step 2 (reseaching) I have to start thinking about brainstorming. I am starting to go into step 3 (brainstorming). I have to brainstorm what I want my website to have as its contents, I have to think what I want my content to be about. Also, I had to brainstorm the future technologies that criminologist can use. I had to come up with different technologies that make sense so that that in the future criminologist can use. I want to start brainstorming in how I want my website to look like, plus I want to fix my content a bit more so that it can be a bit more better. 
+Since I am done with step 2 (reseaching) I have to start thinking about brainstorming. I am starting to go into step 3 (brainstorming). I have to brainstorm what I want my website to have as its contents, I have to think what I want my content to be about. Also, I had to brainstorm the future technologies that criminologist can use. I had to come up with different technologies that make sense so that that in the future criminologist can use. I want to start brainstorming in how I want my website to look like, plus I want to fix my content a bit more so that it can be a bit more better. However, onto the next step I want to start planing and putting all of my ideas onto my website. 
 
 ### Skills
 
@@ -93,9 +93,13 @@ Since I am done with step 2 (reseaching) I have to start thinking about brainsto
 
 I gain the skill of **Attention to detail** because I was focus on making sure that my content had all the information that was needed. Also, I was making sure that my ideas for the technologies made sense because I wanted to make sure that the technologies are useful to use in the future for criminologist. Plus, I wanted to makes sure that there were no typos onto my content and I wanted to make sure I used and included all of my information that was needed. 
 
+#### Collaboration
 
+I gained the skill of **Collaboration** because when I was trying to come up with new ideas for the technology part, I asked my friend Xue because we were almost working on the same topic. Xue helped me gain ideas and I also think that I helped her by gaining some ideas as well. Also, by collaborating with my friends it made things more easy for me to do my content and when I was trying to find my informations. 
 
+#### Time management
 
+I'm kind of working on my **Time management** because this is my blog 3 and it was suppose to be due Friday on the 22 of December. Turning this in late is not good because it shows my lack of time management. I want to work on my time management more because I want to be able to turn in my blogs in time no matter what. So, time management is something that I want to work on more so that it can be a skill that I can use and master in. 
 
 
 
