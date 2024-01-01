@@ -111,11 +111,10 @@ I'm kind of working on my **Time management** because this is my blog 3 and it w
 
 * [What Are Criminologist Skills?](https://www.indeed.com/career-advice/resumes-cover-letters/criminologist-skills)
 
+### Professionalism
+
+I'm conveying my learning by using all of the things that I have learnt from my teacher, my friends, the google slides, and the previous 10th and 11th graders examples. Also, I'm conveying my learning by using `Tiny.cc/fccwd`,`Html`, and `Markdown` because the  things that I learnt from it was the different types of coding skills that I was able to use in order to make my blog 3. Maybe next time I should try using github the `cs50.dev` in order to do my blogs, because I can get a lot more practice by doing that. 
 
 
 
 
-
-[Previous](entry02.md) | [Next](entry04.md)
-
-[Home](../README.md)
