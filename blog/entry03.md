@@ -99,21 +99,17 @@ I gained the skill of **Collaboration** because when I was trying to come up wit
 
 #### Time management
 
-I'm kind of working on my **Time management** because this is my blog 3 and it was suppose to be due Friday on the 22 of December. Turning this in late is not good because it shows my lack of time management. I want to work on my time management more because I want to be able to turn in my blogs in time no matter what. So, time management is something that I want to work on more so that it can be a skill that I can use and master in. 
+I'm kind of working on my **Time management** because this is my blog 3 and it was suppose to be due Friday on the 22 of December. Turning this in late is not good because it shows my lack of time management. I want to work on my time management more because I want to be able to turn in my blogs in time no matter what. So, time management is something that I want to work on more so that it can be a skill that I can **use** and **master** in. 
 
+### Sources
 
+* [How Technology is used for Criminal Investigations](https://www.openfox.com/how-technology-is-used-for-criminal-investigations/)
 
+* [8 Types of Police Software and their uses](https://www.openfox.com/8-types-of-police-software-and-their-uses/ )
 
+* [Criminology Equipment](https://princevaliant-equip.com/product-category/criminology-equipment/)
 
-
-
-
-
-
-
-
-
-
+* [What Are Criminologist Skills?](https://www.indeed.com/career-advice/resumes-cover-letters/criminologist-skills)
 
 
 
